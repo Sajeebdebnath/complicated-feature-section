@@ -5,13 +5,13 @@ html::-webkit-scrollbar {
 }
 html::-webkit-scrollbar-thumb {
   border-radius: 5px;
-  background-color: var(--bgColor);
+  background-color: var(--cyanColor);
 }
 html::-webkit-scrollbar-thumb:hover {
   background-color: var(--blueColor);
 }
 html::-webkit-scrollbar-track {
-  background-color: var(--orangeColor);
+  background-color: var(--bgColor);
 }
 
 /* Common CSS */
@@ -32,6 +32,11 @@ html::-webkit-scrollbar-track {
   --fontFamily: "Poppins", sans-serif;
 }
 
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
 body {
   font-size: var(--normalFont);
   color: var(--textColor2);
