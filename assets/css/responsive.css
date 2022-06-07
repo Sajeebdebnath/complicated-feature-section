@@ -31,8 +31,8 @@
   }
 }
 
-/* Large Mobile :480px. */
-@media only screen and (min-width: 375px) and (max-width: 649px) {
+/* Mobile. */
+@media (max-width: 649px) {
   .feature-area .feature-area-wrapper {
     width: 85%;
   }
