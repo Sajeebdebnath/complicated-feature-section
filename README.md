@@ -1,3 +1,3 @@
-# Assessment-task
-Feature Section
+# Feature Section
+
 Live Link : https://feature-section-sajeebdebnath.vercel.app/
